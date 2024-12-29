@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SujalGadhave
 - 👀 I’m interested in Tech, Video Editing
 - 🌱 I’m currently pursuing AI&DS Engg.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sujalgadhave009@gmail.com
 - ⚡ Fun fact: history does repeat  itself!
 
