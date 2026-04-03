@@ -1,80 +1,46 @@
 # Hi, I'm Sujal 👋  
 🚀 Java Full-Stack Developer | Spring Boot | React | Problem Solver
 
-I’m a passionate engineering student focused on building **secure, scalable, and real-world software solutions**.  
-Strong backend foundations with growing frontend expertise. I enjoy turning ideas into clean, maintainable code.
+I'm an engineering student passionate about building **secure, scalable, and real-world software solutions**. I focus on clean architecture, secure authentication, and building applications that solve actual problems. Always learning, always growing.
 
 ---
 
 ## 🔧 Tech Stack
 
-**Backend**
-- Java (Core + Advanced)
-- Spring Boot, Spring Security
-- Hibernate, JPA
-- RESTful APIs
-- JWT Authentication
-
-**Frontend**
-- React.js
-- HTML5, CSS3, JavaScript (ES6+)
-- Axios
-
-**Database**
-- MySQL
-
-**Tools & Platforms**
-- Git & GitHub
-- Maven
-- Postman
-- Linux
-- IntelliJ IDEA, VS Code
+**Backend:** Java • Spring Boot • Spring Security • Hibernate/JPA • RESTful APIs • JWT  
+**Frontend:** React.js • JavaScript (ES6+) • HTML5 • CSS3  
+**Database:** MySQL  
+**Tools:** Git • Maven • Postman • Linux • IntelliJ IDEA • VS Code  
 
 ---
 
-## 💼 Featured Projects
+## 💼 Key Projects
 
-### 🔐 Secure User Authentication System
-**Spring Boot | JWT | AES Encryption**
-- Built a secure authentication system with encrypted credentials
-- Implemented JWT-based authorization & role management
-- Followed layered architecture (Controller, Service, Repository)
-
-### 🛒 E-Commerce Management System
-**JavaFX | MySQL**
-- Desktop-based product & order management system
-- CRUD operations with clean UI and validation
-- Focused on modular and maintainable design
-
-### 👨‍💼 Employee Management System
-**Spring Boot | React**
-- Full-stack CRUD application
-- REST API integration with frontend
-- Clean routing and reusable React components
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| **Secure Authentication System** | Spring Boot, JWT, AES | Encrypted credentials, role-based access, layered architecture |
+| **E-Commerce Management** | JavaFX, MySQL | CRUD operations, desktop UI, modular design |
+| **Employee Management** | Spring Boot, React | Full-stack integration, clean routing, component reusability |
 
 ---
 
-## 📈 What I’m Currently Doing
-- Improving **React** and frontend architecture
-- Practicing **DSA** for interviews
-- Learning **system design & backend best practices**
-- Preparing for **software developer roles**
+## 🎯 Current Focus
+- Strengthening **React** and frontend design patterns
+- Mastering **Data Structures & Algorithms** for interviews
+- Understanding **system design** and scalability best practices
+- Building production-ready applications
+
+## 🚀 Next Steps
+- Contribute to **open-source projects**
+- Explore **microservices & Docker**
+- Build a **full-stack SaaS project**
+- Learn **cloud deployment** (AWS/GCP)
 
 ---
 
-## 🎯 What I’m Looking For
-- Internship or fresher roles in **Java / Full-Stack Development**
-- Teams that value **clean code, learning, and growth**
-- Real-world problem solving and scalable systems
+## 📫 Connect With Me
+💼 [LinkedIn](https://www.linkedin.com/in/sujalgadhave) | 📧 sujalgadhave009@gmail.com
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/sujalgadhave
-- 📧 Email: sujalgadhave009@gmail.com
-  
----
-
-⭐ **If you like my work, consider starring my repositories.**  
-Let’s build something impactful together!
+⭐ If my work interests you, consider starring my repositories!
