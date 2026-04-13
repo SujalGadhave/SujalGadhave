@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Sujal Gadhave
+<div align="center">
+
+# 👋 Hi, I'm Sujal
+
+</div>
 
 <div align="center">
 
