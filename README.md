@@ -54,7 +54,7 @@ Building production-grade, security-first applications with clean architecture p
 - AI microservice: FastAPI stub with a focused /predict endpoint returning seeded PlantVillage classes
 - Database: MySQL for the demo (H2 in-memory for local dev fallback)
 
-**Stack:** `Python 3.x` `Streamlit` `TensorFlow` `Pandas`
+**Stack:** `Python 3.x` `Java` `React` `JWT` `MYSQL`
 
 [View Repository →](https://github.com/SujalGadhave/AI-Smart-Crop-Advisory.git) <!-- Replace with actual link -->
 
