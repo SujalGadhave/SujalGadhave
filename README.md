@@ -28,7 +28,7 @@ Building production-grade, security-first applications with clean architecture p
 
 **Stack:** `Java 17` `Spring Boot 3.4` `Spring Security` `Spring Data JPA` `MySQL` `JWT` `AES-256` `Swagger`
 
-[View Repository →]([https://github.com/SujalGadhave](https://github.com/SujalGadhave/Stayfinder.git)) <!-- Replace with actual link -->
+[View Repository →](https://github.com/SujalGadhave/Stayfinder.git) <!-- Replace with actual link -->
 
 ---
 
@@ -42,7 +42,7 @@ Building production-grade, security-first applications with clean architecture p
 
 **Stack:** `React 18` `Spring Boot` `Spring Security` `Stripe API` `MySQL` `JWT` `Bootstrap 5`
 
-[View Repository →]([https://github.com/SujalGadhave](https://github.com/SujalGadhave/employee-management-system.git)) <!-- Replace with actual link -->
+[View Repository →](https://github.com/SujalGadhave/employee-management-system.git) <!-- Replace with actual link -->
 
 ---
 
@@ -56,7 +56,7 @@ Building production-grade, security-first applications with clean architecture p
 
 **Stack:** `Python 3.x` `Streamlit` `TensorFlow` `Pandas`
 
-[View Repository →]([https://github.com/SujalGadhave](https://github.com/SujalGadhave/AI-Smart-Crop-Advisory.git)) <!-- Replace with actual link -->
+[View Repository →](https://github.com/SujalGadhave/AI-Smart-Crop-Advisory.git) <!-- Replace with actual link -->
 
 ---
 
