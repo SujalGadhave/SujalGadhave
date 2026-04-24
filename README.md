@@ -1,131 +1,97 @@
 <div align="center">
 
-# 👋 Hi, I'm Sujal
+# Sujal Gadhave
 
-</div>
+**Full-Stack Java Developer** · Spring Boot · React · Secure Backend Systems
 
-<div align="center">
+Building production-grade, security-first applications with clean architecture principles.
 
-**🚀 Full-Stack Java Developer | Python | Problem Solver**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sujalgadhave-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sujalgadhave)
+[![Email](https://img.shields.io/badge/Email-sujalgadhave009%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sujalgadhave009@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SujalGadhave-181717?style=flat-square&logo=github)](https://github.com/SujalGadhave)
 
-Building secure, scalable, and production-ready applications with clean architecture principles.
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-17-FF6B00?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
-### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-6DB33F?style=flat-square&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=flat-square&logo=hibernate)
-![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-009688?style=flat-square)
-
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React.js-18+-61DAFB?style=flat-square&logo=react)
-![JavaFX](https://img.shields.io/badge/JavaFX-GUI-FF6B00?style=flat-square&logo=java)
-![Swing](https://img.shields.io/badge/Swing-Desktop-FF6B00?style=flat-square&logo=java)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-563D7C?style=flat-square&logo=bootstrap)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql)
-![JDBC](https://img.shields.io/badge/JDBC-Database-FF6B00?style=flat-square&logo=java)
-
-### **Authentication & Security**
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=json-web-tokens)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-Role%20Based%20Access-6DB33F?style=flat-square)
-![AES Encryption](https://img.shields.io/badge/AES-Encryption-FF6B00?style=flat-square)
-![OAuth2](https://img.shields.io/badge/OAuth2-Security-000000?style=flat-square)
-
-### **Payments & Integration**
-![Stripe](https://img.shields.io/badge/Stripe-Payments-5469D4?style=flat-square&logo=stripe)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-Integration-009688?style=flat-square)
-
-### **Developer Tools**
-![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=flat-square&logo=intellij-idea)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual-studio-code)
-![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger)
-
-### **API Documentation**
-![Swagger/OpenAPI](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger)
-
-### **AI/ML & Data Science**
-![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=flat-square&logo=streamlit)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-Analytics-FF6F00?style=flat-square)
-
-</div>
-
-### 💻 Core Competencies
-
-| Category | Technologies |
-|----------|--------------|
-| **Backend** | Java • Spring Boot • Spring Security • Spring Data JPA • REST APIs • JWT Auth • Microservices |
-| **Frontend** | React.js • JavaScript (ES6+) • HTML5 • CSS3 • Responsive Design |
-| **Database** | MySQL • SQL Optimization • Database Design |
-| **Tools & Platforms** | Git • Maven • Postman • Docker • Linux • IntelliJ IDEA • VS Code |
-| **Security** | AES Encryption • JWT Tokens • Role-Based Access Control (RBAC) • Secure Authentication |
-
----
-
-## 📈 What I'm Currently Working On
-
-- 🔍 Building **production-ready microservices** architecture
-- 🎨 Enhancing **React** and frontend design patterns
-- 🧮 Mastering **Data Structures & Algorithms** for technical interviews
-- 🏗️ Exploring **system design** and scalability principles
-- 🐳 Containerization with **Docker** and orchestration
-
----
-
-## 🎯 My Goals
-
-- ✅ Contribute to impactful **open-source projects**
-- ✅ Design and deploy **scalable cloud applications** (AWS/GCP)
-- ✅ Build a **full-stack SaaS product** from scratch
-- ✅ Master **microservices architecture** and distributed systems
-- ✅ Mentor aspiring developers in full-stack development
-
----
-
-## 📊 Quick Stats
-
-- 🔨 **Active Learning:** Spring Boot, Advanced React, System Design
-- 📚 **Focus Areas:** Clean Code, SOLID Principles, Design Patterns
-- 🎓 **Background:** Engineering Student | Self-Taught Developer
-- 💡 **Passion:** Building solutions that matter
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Gadhave-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujalgadhave)
-[![Email](https://img.shields.io/badge/Email-sujalgadhave009@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sujalgadhave009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SujalGadhave-181717?style=for-the-badge&logo=github)](https://github.com/SujalGadhave)
+![Open to opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22863a?style=flat-square)
 
 </div>
 
 ---
 
+## Projects
+
+### StayFinder (Hotel Management)
+> RESTful backend for encrypted note storage — built to simulate a real-world secure data product.
+
+- JWT authentication with refresh token rotation
+- AES-256 encryption on all stored content
+- Role-Based Access Control (RBAC) with Admin / User / Viewer roles
+- Full Swagger/OpenAPI documentation · Postman test suite included
+
+**Stack:** `Java 17` `Spring Boot 3.4` `Spring Security` `Spring Data JPA` `MySQL` `JWT` `AES-256` `Swagger`
+
+[View Repository →]([https://github.com/SujalGadhave](https://github.com/SujalGadhave/Stayfinder.git)) <!-- Replace with actual link -->
+
+---
+
+### Employee Management System
+> Full-stack shopping application from product catalog to payment confirmation.
+
+- Spring Boot REST API consumed by a React 18 frontend
+- Stripe Checkout integration with webhook event handling
+- JWT-secured endpoints · cart and order management
+- Responsive UI with Bootstrap 5
+
+**Stack:** `React 18` `Spring Boot` `Spring Security` `Stripe API` `MySQL` `JWT` `Bootstrap 5`
+
+[View Repository →]([https://github.com/SujalGadhave](https://github.com/SujalGadhave/employee-management-system.git)) <!-- Replace with actual link -->
+
+---
+
+### AI Powered Smart Crop Advisory System
+> This application is the three-tier architecture
+
+- Frontend: React + Vite + Tailwind + React Router + Axios
+- Backend: Spring Boot (Web, Security + JWT, Data JPA) with endpoints for auth, crop detection, advisory, weather, and market prices
+- AI microservice: FastAPI stub with a focused /predict endpoint returning seeded PlantVillage classes
+- Database: MySQL for the demo (H2 in-memory for local dev fallback)
+
+**Stack:** `Python 3.x` `Streamlit` `TensorFlow` `Pandas`
+
+[View Repository →]([https://github.com/SujalGadhave](https://github.com/SujalGadhave/AI-Smart-Crop-Advisory.git)) <!-- Replace with actual link -->
+
+---
+
+## Skills
+
+| Area | Technologies |
+|------|--------------|
+| **Backend** | Java 17, Spring Boot 3.4, Spring Security, Spring Data JPA, Hibernate, RESTful APIs |
+| **Frontend** | React 18, JavaScript (ES6+), HTML5, CSS3, Bootstrap 5, JavaFX, Swing |
+| **Security & Auth** | JWT, OAuth2, AES-256 Encryption, Role-Based Access Control |
+| **Database** | MySQL, JDBC, SQL query optimization |
+| **Integrations** | Stripe Payments, REST API design |
+| **Tools** | Git, Maven, Postman, Swagger/OpenAPI, IntelliJ IDEA, VS Code |
+| **AI / Python** | Python, TensorFlow, Streamlit, Data Science fundamentals |
+| **Learning** | Docker, Microservices, System Design, DSA |
+
+---
+
+## Currently
+
+- **Building:** Microservices architecture with Spring Boot and Docker
+- **Practicing:** Data Structures & Algorithms for technical interviews
+- **Studying:** System design and distributed systems principles
+- **Seeking:** Backend or Full-Stack internship / junior role
+
+---
+
+## About
+
+Engineering student and self-taught developer from Maharashtra. I started with Java desktop apps, moved into Spring Boot backends, then picked up React to close the full-stack loop. I gravitate toward security and clean architecture — those are the things that separate a working app from a reliable one. Currently looking for opportunities where I can contribute real code and learn from experienced engineers.
+
+---
+
 <div align="center">
 
-**⭐ If you find my work interesting, please consider giving my repositories a star!**
+*If something here looks interesting, feel free to reach out — I'm always happy to talk about code.*
 
 </div>
