@@ -2,7 +2,7 @@
 
 # Sujal Gadhave
 
-**Full-Stack Java Developer** · Spring Boot · React · Secure Backend Systems
+**Full-Stack Java Developer** · **Spring Boot** · **React** · **Secure Backend Systems**
 
 Building production-grade, security-first applications with clean architecture principles.
 
