@@ -16,50 +16,6 @@ Building production-grade, security-first applications with clean architecture p
 
 ---
 
-## Projects
-
-### StayFinder (Hotel Management)
-> RESTful backend for encrypted note storage — built to simulate a real-world secure data product.
-
-- JWT authentication with refresh token rotation
-- AES-256 encryption on all stored content
-- Role-Based Access Control (RBAC) with Admin / User / Viewer roles
-- Full Swagger/OpenAPI documentation · Postman test suite included
-
-**Stack:** `Java 17` `Spring Boot 3.4` `Spring Security` `Spring Data JPA` `MySQL` `JWT` `AES-256` `Swagger`
-
-[View Repository →](https://github.com/SujalGadhave/Stayfinder.git) <!-- Replace with actual link -->
-
----
-
-### Employee Management System
-> Full-stack shopping application from product catalog to payment confirmation.
-
-- Spring Boot REST API consumed by a React 18 frontend
-- Stripe Checkout integration with webhook event handling
-- JWT-secured endpoints · cart and order management
-- Responsive UI with Bootstrap 5
-
-**Stack:** `React 18` `Spring Boot` `Spring Security` `Stripe API` `MySQL` `JWT` `Bootstrap 5`
-
-[View Repository →](https://github.com/SujalGadhave/employee-management-system.git) <!-- Replace with actual link -->
-
----
-
-### AI Powered Smart Crop Advisory System
-> This application is the three-tier architecture
-
-- Frontend: React + Vite + Tailwind + React Router + Axios
-- Backend: Spring Boot (Web, Security + JWT, Data JPA) with endpoints for auth, crop detection, advisory, weather, and market prices
-- AI microservice: FastAPI stub with a focused /predict endpoint returning seeded PlantVillage classes
-- Database: MySQL for the demo (H2 in-memory for local dev fallback)
-
-**Stack:** `Python 3.x` `Java` `React` `JWT` `MYSQL`
-
-[View Repository →](https://github.com/SujalGadhave/AI-Smart-Crop-Advisory.git) <!-- Replace with actual link -->
-
----
-
 ## Skills
 
 | Area | Technologies |
